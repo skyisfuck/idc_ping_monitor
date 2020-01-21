@@ -9,8 +9,8 @@ host = 1.119.0.1
 
 ++ tianjin
 menu = 天津
-title = 42.81.0.1
-host = 42.81.0.1
+title = 42.80.136.2
+host = 42.80.136.2
 
 ++ hebei
 menu = 河北
@@ -24,8 +24,8 @@ host = 1.180.0.1
 
 ++ liaoning
 menu = 辽宁
-title = 1.180.236.1
-host = 1.180.236.1
+title = 1.180.240.5
+host = 1.180.240.5
 
 ++ heilongjiang
 menu = 黑龙江
@@ -39,8 +39,8 @@ host = 36.48.0.1
 
 ++ shandong
 menu = 山东
-title = 58.56.0.1
-host = 58.56.0.1
+title = 58.56.0.5
+host = 58.56.0.5
 
 ++ shanxi
 menu = 山西
@@ -54,18 +54,18 @@ host = 42.99.16.1
 
 ++ zhejiang
 menu = 浙江
-title = 36.24.25.0
-host = 36.24.25.0
+title = 36.24.25.1
+host = 36.24.25.1
 
 ++ jiangsu
 menu = 江苏
-title = 36.111.192.2
-host = 36.111.192.2
+title = 36.111.192.1
+host = 36.111.192.1
 
 ++ anhui
 menu = 安徽
-title = 36.4.128.0
-host = 36.4.128.0
+title = 36.4.31.0
+host = 36.4.31.0
 
 ++ jiangxi
 menu = 江西
@@ -74,8 +74,8 @@ host = 59.52.4.1
 
 ++ fujian
 menu = 福建
-title = 27.148.0.3
-host = 27.148.0.3
+title = 27.148.128.2
+host = 27.148.128.2
 
 ++ henan
 menu = 河南
@@ -84,8 +84,8 @@ host = 1.192.0.1
 
 ++ hubei
 menu = 湖北
-title = 58.48.0.1
-host = 58.48.0.1
+title = 27.16.132.1
+host = 27.16.132.1
 
 ++ hunan
 menu = 湖南
@@ -94,8 +94,8 @@ host = 36.111.200.1
 
 ++ guangdong
 menu = 广东
-title = 14.18.144.1
-host = 14.18.144.1
+title = 14.18.9.1
+host = 14.18.9.1
 
 ++ guangxi
 menu = 广西
@@ -104,13 +104,13 @@ host = 58.59.133.65
 
 ++ shenzhen
 menu = 深圳
-title = 1.199.93.1
-host = 1.199.93.1
+title = 1.82.218.1
+host = 1.82.218.1
 
 ++ hainan
 menu = 海南
-title = 36.1.0.8
-host = 36.1.0.8
+title = 36.1.0.9
+host = 36.1.0.9
 
 ++ sichuan
 menu = 四川
@@ -144,8 +144,8 @@ host = 1.81.0.1
 
 ++ ningxia
 menu = 宁夏
-title = 14.134.207.3
-host = 14.134.207.3
+title = 61.133.192.5
+host = 61.133.192.5
 
 ++ gansu
 menu = 甘肃

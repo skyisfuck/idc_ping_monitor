@@ -4,8 +4,8 @@ title = 移动
 
 ++ beijing
 menu = 北京
-title = 39.137.71.1
-host = 39.137.71.1
+title = 39.134.133.1
+host = 39.134.133.1
 
 ++ tianjin
 menu = 天津
@@ -74,13 +74,13 @@ host = 39.134.114.1
 
 ++ fujian
 menu = 福建
-title = 39.135.48.1
-host = 39.135.48.1
+title = 39.135.51.1
+host = 39.135.51.1
 
 ++ henan
 menu = 河南
-title = 39.134.210.1
-host = 39.134.210.1
+title = 39.134.210.3
+host = 39.134.210.3
 
 ++ hubei
 menu = 湖北
@@ -119,8 +119,8 @@ host = 39.134.196.1
 
 ++ chongqing
 menu = 重庆
-title = 39.134.0.1
-host = 39.134.0.1
+title = 39.134.0.2
+host = 39.134.0.2
 
 ++ guizhou
 menu = 贵州
@@ -129,8 +129,8 @@ host = 39.135.8.1
 
 ++ yunnan
 menu = 云南
-title = 14.204.68.74
-host = 14.204.68.74
+title = 39.128.0.0
+host = 39.128.0.0
 
 ++ xizang
 menu = 西藏
@@ -159,6 +159,6 @@ host = 39.134.159.1
 
 ++ xinjiang
 menu = 新疆
-title = 39.134.236.1
-host = 39.134.236.1
+title = 36.184.0.1
+host = 36.184.0.1
 

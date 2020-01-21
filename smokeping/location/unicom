@@ -14,8 +14,8 @@ host = 27.112.0.1
 
 ++ hebei
 menu = 河北
-title = 60.0.9.3
-host = 60.0.9.3
+title = 60.0.0.1
+host = 60.0.0.1
 
 ++ neimenggu
 menu = 内蒙古
@@ -84,8 +84,8 @@ host = 42.51.0.1
 
 ++ hubei
 menu = 湖北
-title = 58.19.17.119
-host = 58.19.17.119
+title = 58.19.102.1
+host = 58.19.102.1
 
 ++ hunan
 menu = 湖南
@@ -149,8 +149,8 @@ host = 59.81.98.1
 
 ++ gansu
 menu = 甘肃
-title = 60.13.0.1
-host = 60.13.0.1
+title = 59.81.94.1
+host = 59.81.94.1
 
 ++ qinghai
 menu = 青海
