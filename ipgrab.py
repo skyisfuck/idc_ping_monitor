@@ -198,7 +198,7 @@ def syncToSmokingFile(province_info):
             data['telcom'] += record
 
     for isp in data:
-        with open("smokeping/location/"+isp , "w") as f:
+        with open("etc/smokeping/location/"+isp , "w") as f:
             f.writelines(data[isp])
 
 def getDate():
